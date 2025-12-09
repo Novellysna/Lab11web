@@ -6,7 +6,7 @@
 
 
 # Tampilan Home
-<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/1200fdcc-a7f2-4b6e-b3d0-e9287f4a7fd5" />
+<img width="1837" height="822" alt="Screenshot 2025-12-09 165955" src="https://github.com/user-attachments/assets/ed372495-4ffc-4b44-bba4-f23f4f97db0d" />
 
 # Tampilan Data Artikel/ User
 <img width="958" height="475" alt="image" src="https://github.com/user-attachments/assets/55aa1889-204d-4973-9d91-863e12400edb" />
